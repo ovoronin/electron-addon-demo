@@ -29,8 +29,3 @@ setTimeout(() => {
 function paste() {
    console.log(setText('Hello!'));
 }
-
-window.addEventListener('beforeunload', function(event) {
-   alert('sss');
- })
-
