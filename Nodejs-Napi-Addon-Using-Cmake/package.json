@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "compile": "cmake-js compile"
+  },
+  "dependencies": {
+    "node-addon-api": "^6.1.0"
+  },
+  "devDependencies": {
+    "cmake-js": "^6.1.0"
+  }
+}

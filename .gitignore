@@ -1,0 +1,4 @@
+node_modules
+console/*.exe
+console/*.obj
+.vscode
